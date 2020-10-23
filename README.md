@@ -21,4 +21,4 @@ Este é um projeto desenvolvido durante a Next Level Week , realizado pela @Rock
 <li><a href="https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web?node-id=0%3A1">Layout Web</a>
 <li><a href="https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile?node-id=0%3A1">Layout Mobile</a>
 <li>Lembrando que você precisa ter uma conta no <a href="https://www.figma.com/">Figma</a> para acessá-lo.
-</ul>
+
