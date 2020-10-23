@@ -8,7 +8,7 @@ Projeto construído durante a Next Level Week, uma semana onde você busca o seu
 <li>Express
 <li>SQLite
 <li>handlebars
-</ul>
+  
 <h2>💻 Projeto</h2>
 <p>O Happy é um projeto que visa facilitar visitas aos orfanatos próximos a você 💜
 
